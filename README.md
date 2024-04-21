@@ -31,5 +31,5 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ## My blog
-<a herf="47.102.193.146">awz66661</a> no domain for poor student QAQ
+<a herf="awz66661.icu">awz66661'blog awz66661.icu</a>
 
