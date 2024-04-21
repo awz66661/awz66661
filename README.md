@@ -4,19 +4,12 @@
   
  🧑‍🎓 *BS, *information security* @ **Fudan University**
   
-<!-- **Autonomous Vehicle Researcher Intern @ SenseTime 商汤科技**   -->
 📫 **Mail:** 21307130326@m.fudan.edu.cn
 📨 **Wechat:** awz2362422778
 
 </div>
   
 
-
-
-
-## 🌱 Currently Learning
-- Reverse engineering 🚀
-- Soccer Goalkeeper technique🧤
 
 
 ## 🤔 What I'm interested in 
