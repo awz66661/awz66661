@@ -26,4 +26,4 @@
 - **Internship at NIO:** Contributed to the development of automotive technologies by scripting for automated analysis of connected car data.
 
 ## My blog
-<a href="http://awz66661.icu">awz66661's blog</a>
+<a href="http://awz66661.top">awz66661's blog</a>
