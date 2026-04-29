@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/Mode-Systems%20experiments-16a34a?style=flat-square&logo=linux&logoColor=white" alt="Systems experiments" />
 </p>
 
-<sub>
-  Building small tools, blogs, and servers that stay boring after setup.
-</sub>
 
 <br />
 
