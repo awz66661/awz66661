@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Aowei+Zhi+%2F+%E6%95%96%E4%BC%9F%E6%99%BA;Fudan+Cybersecurity;Cryptography+%2F+PQC+%2F+Systems" alt="Typing intro for awz66661" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Weizhi+Ao+%2F+%E6%95%96%E4%BC%9F%E6%99%BA;Fudan+Cybersecurity;Cryptography+%2F+PQC+%2F+Systems" alt="Typing intro for awz66661" />
 
 <br />
 <br />
